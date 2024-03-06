@@ -1,0 +1,6 @@
+numpy==1.24.3
+pandas
+sikit-learn
+pickle                  #pip install-r requirements.txt
+                        #pip install requirements.txt:
+                        #
